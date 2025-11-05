@@ -72,6 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
             colors: [
               Color.fromRGBO(r, g, b, 1.0),
               Color.fromRGBO(r - 200, g - 200, b - 200, 1.0),
+              Color.fromRGBO(r, g, b, 1.0),
             ],
           ),
         ),
